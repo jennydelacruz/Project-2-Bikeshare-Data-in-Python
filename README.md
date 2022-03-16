@@ -9,9 +9,9 @@ Python 3, NumPy, and pandas using Anaconda; and Atom as my text editor.
 I first familiarized myself with the data included to provide the following, required information:
 
 1. Popular times of travel (i.e., occurs most often in the start time).
-*most common month.
-*most common day of week.
-*most common hour of day.
+- most common month.
+- most common day of week.
+- most common hour of day.
 
 2. Popular stations and trip.
 most common start station
